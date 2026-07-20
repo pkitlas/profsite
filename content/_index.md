@@ -38,11 +38,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+     My research interests center on social and cultural exchange across North Africa in the early modern period. In particular I explore the intersection of scribal history, diplomacy, and Islam through a comparative lens that includes Arabic and Ottoman Turkish sources, actors, and contexts.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+My first monograph, Beyond the Consulate: Moroccan Scribes and Diplomatic Debates in the Eighteenth-Century Mediterranean, tells the story of Moroccan scribal society and its expanding influence on internal and external political affairs. Ranging from low-level copyists to the most important ambassadors, scribes participated in diplomatic discussions that crossed social and political geographies in ʿAlawī Morocco. Through this array of actors, the book introduces its readers to the depth and breadth of debates circulating throughout Morocco at the turn to modernity – with arguments for rethinking the Euro-centric roots of international thought woven throughout. Following the riveting stories of Morocco’s scribes, Beyond the Consulate explores some of the most important questions of eighteenth-century Moroccan politics, law, and religion. In doing so, it encourages the reader to reimagine the socio-cultural genealogies of Moroccan international thought as well as the diverse political imaginaries of an early modern Islamic Mediterranean.
 
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
